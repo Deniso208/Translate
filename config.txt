@@ -1,0 +1,6 @@
+text.txt
+ar   
+screen 
+1500   
+200   
+20    

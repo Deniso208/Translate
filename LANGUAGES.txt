@@ -1,0 +1,12 @@
+Language  ISO-639 code Text gt
+----------------------------------
+afrikaans af Hallo broer
+albanian sq Përshëndetje vëlla
+amharic am ሰላም ወንድም
+arabic ar مرحبا ياصاح
+armenian hy Բարև եղբայր
+azerbaijani az salam qardaş
+basque eu Kaixo anai
+belarusian be Прывітанне братка
+bengali bn ওহে ভাই
+bosnian bs Zdravo brate
